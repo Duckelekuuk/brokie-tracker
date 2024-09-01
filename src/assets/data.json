@@ -1,0 +1,44 @@
+{
+  "name": "huis",
+  "in": [
+    {
+      "id": "344cd0cf-6924-4497-956e-17753af8eb53",
+      "name": "Salaris",
+      "value": 2000
+    }
+  ],
+  "out": [
+    {
+      "id": "6f985d50-8f0c-4359-9181-4941f665140b",
+      "name": "Keuken",
+      "value": [
+        {
+          "id": "85ff93ba-5180-49ad-8d7a-fb86065227cb",
+          "name": "KoelKast",
+          "value": 2000
+        }
+      ]
+    },
+    {
+      "id": "bf7fc4fe-1066-4028-8a28-1122e5cf15dc",
+      "name": "Vloeren",
+      "value": [
+        {
+          "id": "344cd0cf-6924-4497-956e-17753af8eb53",
+          "name": "Beneden",
+          "value": 200
+        },
+        {
+          "id": "94014654-0d80-4fd9-8dd4-46dacd7a9ce5",
+          "name": "1e verdieping",
+          "value": 200
+        },
+        {
+          "id": "276609c6-d874-4f6e-a76a-fbfda1f068aa",
+          "name": "Zolder",
+          "value": 200
+        }
+      ]
+    }
+  ]
+}
